@@ -1,1 +1,5 @@
-Branch/Merge/Amend test = Complete
+Test_Conflict_1
+
+ololo
+
+need more conflicts
