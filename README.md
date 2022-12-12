@@ -1,1 +1,1 @@
-Git commands test repository
+Branch/Merge/Amend/-d test = Complete
