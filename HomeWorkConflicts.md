@@ -1,1 +1,3 @@
-Branch/Merge/Amend test = Complete
+Test_Conflict_3
+
+Nu tut ponyatno
