@@ -1,6 +1,3 @@
-Its Test_Conflict_1
+Test_Conflict_3
 
-We need a conflict!
-Test_Conflict_2 
-
-We totaly need coflict!
+Nu tut ponyatno
