@@ -17,5 +17,5 @@ if (i == 6)
 }
 else if (i == 7)
 {
-    System.Console.WriteLine(", хоть и выходной, но завтра на работу :(");
+    System.Console.WriteLine(", хоть и выходной но завтра на работу(");
 }

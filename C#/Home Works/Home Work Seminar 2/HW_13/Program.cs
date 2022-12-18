@@ -1,24 +1,11 @@
-﻿//Входные данные получение
-int GetValue()
+﻿Console.Write("Введи число: ");
+int anyNumber = Convert.ToInt32(Console.ReadLine());
+string anyNumberText = Convert.ToString(anyNumber);
+if (anyNumberText.Length > 2)
 {
-    System.Console.WriteLine("Введите число");
-    int value = int.Parse(Console.ReadLine());
-    return value;
-
+    Console.WriteLine("третья цифра -> " + anyNumberText[2]);
 }
-
-int n = GetValue();
-
-
-
-
-
-
-
-
-int[] arr = new int[n];
-int size = arr.Length;
-int index = 0;
-while (index < size)
-    int thirdNum
-index++;
+else
+{
+    Console.WriteLine("-> третьей цифры нет");
+}
