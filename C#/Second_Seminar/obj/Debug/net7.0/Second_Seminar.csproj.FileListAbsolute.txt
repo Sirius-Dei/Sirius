@@ -1,0 +1,15 @@
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\bin\Debug\net7.0\Second_Seminar.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\bin\Debug\net7.0\Second_Seminar.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\bin\Debug\net7.0\Second_Seminar.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\bin\Debug\net7.0\Second_Seminar.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\bin\Debug\net7.0\Second_Seminar.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\refint\Second_Seminar.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\Second_Seminar.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Second_Seminar\obj\Debug\net7.0\ref\Second_Seminar.dll
