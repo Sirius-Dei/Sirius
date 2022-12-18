@@ -52,8 +52,3 @@ void Task36()
         System.Console.WriteLine("WRONG NUMBER!");
     }
 }
-
-
-
-
-
