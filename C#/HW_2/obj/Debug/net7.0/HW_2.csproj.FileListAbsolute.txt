@@ -1,0 +1,15 @@
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\bin\Debug\net7.0\HW_2.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\bin\Debug\net7.0\HW_2.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\bin\Debug\net7.0\HW_2.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\bin\Debug\net7.0\HW_2.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\bin\Debug\net7.0\HW_2.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\refint\HW_2.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\HW_2.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\HW_2\obj\Debug\net7.0\ref\HW_2.dll
