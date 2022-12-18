@@ -1,4 +1,6 @@
-﻿void FillArray(int[] arg)
+﻿//Напишите программу которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N
+
+void FillArray(int[] arg)
 {
     int length = arg.Length;
     int index = 0;
@@ -8,13 +10,13 @@
         index++;
     }
 }
-void PrintArray(int[] col)
+void PrintArray(int[] prA)
 {
-    int count = col.Length;
+    int count = prA.Length;
     int position = 0;
     while (position < count)
     {
-        System.Console.WriteLine(col[position]);
+        System.Console.WriteLine(prA[position]);
         position++;
     }
 }
