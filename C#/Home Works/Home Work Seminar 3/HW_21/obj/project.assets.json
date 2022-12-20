@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_23\\HW_23.csproj",
-      "projectName": "HW_23",
-      "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_23\\HW_23.csproj",
+      "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_21\\HW_21.csproj",
+      "projectName": "HW_21",
+      "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_21\\HW_21.csproj",
       "packagesPath": "C:\\Users\\Sirius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_23\\obj\\",
+      "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sirius\\AppData\\Roaming\\NuGet\\NuGet.Config"
