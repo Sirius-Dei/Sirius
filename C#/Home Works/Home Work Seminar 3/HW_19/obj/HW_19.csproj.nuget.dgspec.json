@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_19\\HW_19.csproj": {}
+    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_19\\HW_19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_19\\HW_19.csproj": {
+    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_19\\HW_19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_19\\HW_19.csproj",
+        "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_19\\HW_19.csproj",
         "projectName": "HW_19",
-        "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_19\\HW_19.csproj",
+        "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_19\\HW_19.csproj",
         "packagesPath": "C:\\Users\\Sirius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Wor Seminar 3\\HW_19\\obj\\",
+        "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 3\\HW_19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sirius\\AppData\\Roaming\\NuGet\\NuGet.Config"
