@@ -10,16 +10,7 @@ void FillArray(int[] arg)
         index++;
     }
 }
-void PrintArray(int[] prA)
-{
-    int count = prA.Length;
-    int position = 0;
-    while (position < count)
-    {
-        System.Console.WriteLine(prA[position]);
-        position++;
-    }
-}
+
 System.Console.WriteLine("Введите число");
 int n = int.Parse(Console.ReadLine());
 int[] arr = new int[n];
