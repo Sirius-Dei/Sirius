@@ -1,15 +1,19 @@
-﻿int ReadInt(string argumentName)
+﻿//Это жесть конечно. Ещё не пробовал таким образом получать сумму чисел)
+
+int ReadInt(string argumentName)
 {
     Console.Write($"Input {argumentName}: ");
     return int.Parse(Console.ReadLine()!);
 }
 
 System.Console.WriteLine("Input number");
-string n = ReadInt("Number").ToString();
-int size = n.Length;
+int n = ReadInt("Number");
 int sum = 0;
-for (int i = 0; i < size; i++)
+while (n > 0)
 {
-    sum = n[0] + n[1];
+    sum += n % 10;
+    n = n / 10;
 }
 System.Console.WriteLine(sum);
+
+
