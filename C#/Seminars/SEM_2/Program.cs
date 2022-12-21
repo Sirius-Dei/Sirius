@@ -1,56 +1,22 @@
-﻿int GetNumber(int value)
+﻿System.Console.WriteLine("Введите номер четверти");
+int qwarter = int.Parse(Console.ReadLine());
+if (qwarter >= 1 && qwarter <= 4)
 {
-    int a = value / 100;
-    int b = (value / 10) % 10;
-    int c = value % 10;
-    return b * 10 + c;
-}
-
-int getNumberFromUser()
-{
-    System.Console.WriteLine("Введи трёхзначное число от 100 до 999");
-    int temp = int.Parse(Console.ReadLine());
-
-    return temp;
-}
-
-bool validator(int number)
-{
-    return number >= 100 && number <= 999;
-    //    if (number >= 100)
-    //   {
-    //        if (number <= 999)
-    //        {
-    //            return true;
-    //        }
-    //    }
-    //    return false;
-}
-
-string GetText(int input, int output)
-{
-    return input + "->" + output;
-}
-
-string Decorator(string text)
-{
-    Console.Clear();
-    Console.ForegroundColor = ConsoleColor.Red;
-    return text;
-}
-
-void Task36()
-{
-    int value = getNumberFromUser();
-    if (validator(value))
+    if (qwarter == 1)
     {
-        int result = GetNumber(value);
-        System.Console.WriteLine(Decorator(GetText(value, result)));
+        System.Console.WriteLine($"X (1, {int.MaxValue}), Y (1, {int.MaxValue})");
     }
-    else
+    if (qwarter == 2)
     {
-        System.Console.WriteLine("WRONG NUMBER!");
+        System.Console.WriteLine($"X (-1, {int.MinValue}), Y (1, {int.MaxValue})");
+    }
+    if (qwarter == 3)
+    {
+        System.Console.WriteLine($"X (-1, {int.MinValue}),Y (1, {int.MinValue})");
+    }
+    if (qwarter == 4)
+    {
+        System.Console.WriteLine($"X (1, {int.MaxValue}), Y (-1, {int.MinValue})");
     }
 }
-
-Task36();
+else System.Console.WriteLine("Неправильнный номер четверти!");

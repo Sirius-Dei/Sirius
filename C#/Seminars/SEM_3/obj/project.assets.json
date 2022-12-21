@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Third Seminar\\Third Seminar.csproj",
-      "projectName": "Third Seminar",
-      "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Third Seminar\\Third Seminar.csproj",
+      "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Seminars\\SEM_4\\Lesson 4.csproj",
+      "projectName": "Lesson 4",
+      "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Seminars\\SEM_4\\Lesson 4.csproj",
       "packagesPath": "C:\\Users\\Sirius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Third Seminar\\obj\\",
+      "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Seminars\\SEM_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sirius\\AppData\\Roaming\\NuGet\\NuGet.Config"
