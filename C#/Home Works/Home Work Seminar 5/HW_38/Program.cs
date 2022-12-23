@@ -60,3 +60,5 @@ double FindMin(double[] array)
     }
     return min;
 }
+
+
