@@ -93,28 +93,4 @@ int[] GetRandomArray(int length)
     return array;
 }
 
-void Task3()
-{
-    //Создать копию массива с поэлементным копированием
-
-    System.Console.WriteLine("Задайте количество элементов массива");
-
-    int[] FirstArray = GetRandomArray(ReadInt("massive length"));
-    PrintArray(FirstArray);
-    int[] SecondArray = new int[FirstArray.Length];
-    CopyArray(FirstArray);
-    System.Console.WriteLine();
-    PrintArray(SecondArray);
-
-}
-
-void CopyArray(int[] FirstArray)
-{
-
-    for (int i = 0; i < FirstArray.Length; i++)
-    {
-        SecondArray[i] = FirstArray[i];
-    }
-}
-
 
