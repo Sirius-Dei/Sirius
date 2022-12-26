@@ -7,10 +7,10 @@ int ReadInt(string argumentName)
     return int.Parse(Console.ReadLine());
 }
 
-double b1 = 2;   //ReadInt("b1");
-double k1 = 5;   //ReadInt("k1");
-double b2 = 4;   //ReadInt("b2");
-double k2 = 9;   //ReadInt("k2");
+double b1 = ReadInt("b1");
+double k1 = ReadInt("k1");
+double b2 = ReadInt("b2");
+double k2 = ReadInt("k2");
 ITR(b1, k1, b2, k2);
 
 void ITR(double b1, double k1, double b2, double k2)

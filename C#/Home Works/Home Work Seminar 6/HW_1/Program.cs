@@ -12,7 +12,7 @@
 int ReadInt(string argumentName)
 {
     Console.Write($"Input {argumentName}: ");
-    return int.Parse(Console.ReadLine());
+    return int.Parse(Console.ReadLine()!);
 }
 void PrintArray(int[] array)
 {
