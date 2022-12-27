@@ -46,17 +46,6 @@ void Convert(int num)
     System.Console.WriteLine(result);
 }
 
-string Reverse(string res)
-{
-    string result = string.Empty;
-    char[] array = result.Reverse().ToArray();
-    foreach (char c in array)
-    {
-        result += c;
-    }
-    return result;
-    System.Console.WriteLine(Reverse(result));
-}
 
 void Fibonacci()
 {
@@ -73,24 +62,10 @@ void Fibonacci()
 
 }
 
-void PrintArray(int[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-    {
-        System.Console.Write($"{array[i]}, ");
-    }
-}
-
-int[] GetRandomArray(int length)
-{
-    int[] array = new int[length];
-    Random rand = new Random();
-    for (int i = 0; i < array.Length; i++)
-    {
-        array[i] = rand.Next(1, 100);
-    }
-
-    return array;
-}
 
 
+task1();
+
+task2();
+
+Fibonacci();
