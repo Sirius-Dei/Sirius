@@ -9,4 +9,4 @@ if (n.Length == 5)
     }
     else System.Console.WriteLine($"Число '{n}' НЕ является палиндромом!");
 }
-else System.Console.WriteLine("Неправильное число");
+else System.Console.WriteLine("Неправильное число!");

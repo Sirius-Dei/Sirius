@@ -1,26 +1,32 @@
-﻿int[,] array = Get2DemArr(4, 4);
-Print2DemArray(array);
+﻿int[,] array = Get2DemArr(5, 5);
+CalculateRows(array);
 
-void CalculateRows(int[] array)
+#region Methods
+void CalculateRows(int[,] array)
 {
-    int sum = 0;
-    for (int i = 0; i < array.Length)
-}
-
-
-int[] GetFirstRow(int[,] array)
-{
-    int rowNumber = 2;
-    int[] tempArray = new int[array.GetLength(1)];
-
-    for (int i = 0; i < array.GetLength(0); i++)
+    Print2DemArray(array);
+    int minRow = 0;
+    int min = GetSumRow(array, 0);
+    for (int i = 1; i < array.GetLength(0); i++)
     {
-        tempArray[i] = array[rowNumber, i];
+        int sum = GetSumRow(array, i);
+        if (sum < min)
+        {
+            min = sum;
+            minRow = i;
+        }
+        if (i == array.GetLength(0) - 1 && i == array.GetLength(1) - 1) System.Console.WriteLine($"Min sum of elements on a {minRow + 1} row = {min}");
     }
-
-    return tempArray;
 }
-
+int GetSumRow(int[,] array, int i)
+{
+    int tempSum = array[i, 0];
+    for (int j = 1; j < array.GetLength(1); j++)
+    {
+        tempSum += array[i, j];
+    }
+    return tempSum;
+}
 void Print2DemArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -32,7 +38,6 @@ void Print2DemArray(int[,] array)
         }
     }
 }
-
 int[,] Get2DemArr(int rows, int columns)
 {
     Random r = new Random();
@@ -46,3 +51,4 @@ int[,] Get2DemArr(int rows, int columns)
     }
     return array;
 }
+#endregion
