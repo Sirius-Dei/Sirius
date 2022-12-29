@@ -71,3 +71,12 @@
 //    }
 //    return array;
 //}
+// int GetSumRow(int[,] array, int i)
+// {
+//     int tempSum = array[i, 0];
+//     for (int j = 1; j < array.GetLength(1); j++)
+//     {
+//         tempSum += array[i, j];
+//     }
+//     return tempSum;
+// }
