@@ -1,4 +1,5 @@
 ﻿Recursion(5, 1);
+
 void Recursion(int m, int n)
 {
     if (m <= n)
@@ -9,7 +10,6 @@ void Recursion(int m, int n)
     System.Console.Write($"{m}, ");
     Recursion(m - 1, n);
 }
-
 AltRecursion(5);
 void AltRecursion(int m)
 {
