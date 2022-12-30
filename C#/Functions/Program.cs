@@ -80,3 +80,14 @@
 //     }
 //     return tempSum;
 // }
+
+// int SumNumbers(int number)                 //RECURSION
+// {
+//     if (number / 10 == 0)
+//     {
+//         return number % 10;
+//     }
+//     return number % 10 + SumNumbers(number / 10);
+// }
+
+// System.Console.WriteLine(SumNumbers(121233));
