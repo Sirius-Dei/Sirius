@@ -2,6 +2,7 @@
 PrintArray(array);
 System.Console.WriteLine();
 DiagonalSum(array);
+Console.ReadKey();
 
 
 int ReadInt(string argumentName)

@@ -1,5 +1,9 @@
 ﻿int[,] array = Get2DemArr(ReadInt("row length"), ReadInt("columns length"));
 SortNumbersInARows(array);
+int i = 0;
+while (i > 0)
+    i++;
+System.Console.WriteLine(i);
 Console.ReadKey();
 
 void SortNumbersInARows(int[,] array)
@@ -32,11 +36,6 @@ int[] GetRow(int[,] array, int rowNumber)
 
     return tempArray;
 }
-int ReadInt(string argumentName)
-{
-    Console.Write($"Input {argumentName}: ");
-    return int.Parse(Console.ReadLine());
-}
 int[] Sort(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -52,6 +51,11 @@ int[] Sort(int[] array)
         }
     }
     return array;
+}
+int ReadInt(string argumentName)
+{
+    Console.Write($"Input {argumentName}: ");
+    return int.Parse(Console.ReadLine());
 }
 int[,] Get2DemArr(int rows, int columns)
 {
