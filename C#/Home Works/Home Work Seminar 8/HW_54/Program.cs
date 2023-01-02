@@ -1,5 +1,6 @@
 ﻿int[,] array = Get2DemArr(ReadInt("row length"), ReadInt("columns length"));
 SortNumbersInARows(array);
+Console.ReadKey();
 
 void SortNumbersInARows(int[,] array)
 {

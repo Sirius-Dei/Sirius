@@ -22,7 +22,6 @@ void FindDiff(double max, double min)
 {
     double res = max - min;
     System.Console.WriteLine($"Разница между {max} и {min} = {res}");
-
 }
 double FindMax(double[] array)
 {
@@ -38,7 +37,6 @@ double FindMax(double[] array)
         {
             index++;
         }
-
     }
     return max;
 }
@@ -47,7 +45,6 @@ double FindMin(double[] array)
     int index = 0;
     while (index < array.Length)
     {
-
         if (array[index] <= min)
         {
             min = array[index];

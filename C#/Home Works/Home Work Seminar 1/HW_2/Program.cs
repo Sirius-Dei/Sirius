@@ -13,3 +13,4 @@ else
 {
     System.Console.WriteLine($"{b} больше чем {a}");
 }
+Console.ReadKey();
