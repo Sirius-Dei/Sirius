@@ -32,11 +32,6 @@ int[] GetRow(int[,] array, int rowNumber)
 
     return tempArray;
 }
-int ReadInt(string argumentName)
-{
-    Console.Write($"Input {argumentName}: ");
-    return int.Parse(Console.ReadLine());
-}
 int[] Sort(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -52,6 +47,11 @@ int[] Sort(int[] array)
         }
     }
     return array;
+}
+int ReadInt(string argumentName)
+{
+    Console.Write($"Input {argumentName}: ");
+    return int.Parse(Console.ReadLine());
 }
 int[,] Get2DemArr(int rows, int columns)
 {
