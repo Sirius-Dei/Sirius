@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\HW_2\\HW_2.csproj": {}
+    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 1\\HW_2\\HW_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\HW_2\\HW_2.csproj": {
+    "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 1\\HW_2\\HW_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\HW_2\\HW_2.csproj",
+        "projectUniqueName": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 1\\HW_2\\HW_2.csproj",
         "projectName": "HW_2",
-        "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\HW_2\\HW_2.csproj",
+        "projectPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 1\\HW_2\\HW_2.csproj",
         "packagesPath": "C:\\Users\\Sirius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\HW_2\\obj\\",
+        "outputPath": "C:\\Users\\Sirius\\Documents\\SiriusLocalREP\\C#\\Home Works\\Home Work Seminar 1\\HW_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sirius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sirius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
