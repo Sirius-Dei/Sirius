@@ -23,3 +23,9 @@
 - Изменил цвет сайта
 
 _P.S Хотел изменить лого сайта, но не вышло (не смог найти его)_
+
+ДО
+![Screenshot_1](https://user-images.githubusercontent.com/120173856/214941425-16e48eb2-3ccf-47d8-b62c-9327332f4b0d.png)
+
+ПОСЛЕ
+![Screenshot_2](https://user-images.githubusercontent.com/120173856/214941472-e96b63b2-480d-443b-8f65-58705f5e3f49.png)
