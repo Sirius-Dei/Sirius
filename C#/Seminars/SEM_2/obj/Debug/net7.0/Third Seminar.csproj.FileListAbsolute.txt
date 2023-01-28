@@ -1,0 +1,15 @@
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\bin\Debug\net7.0\Third Seminar.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\bin\Debug\net7.0\Third Seminar.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\bin\Debug\net7.0\Third Seminar.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\bin\Debug\net7.0\Third Seminar.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\bin\Debug\net7.0\Third Seminar.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\refint\Third Seminar.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\Third Seminar.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Third Seminar\obj\Debug\net7.0\ref\Third Seminar.dll

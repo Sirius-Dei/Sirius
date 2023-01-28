@@ -1,0 +1,15 @@
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\bin\Debug\net7.0\SEM_5.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\bin\Debug\net7.0\SEM_5.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\bin\Debug\net7.0\SEM_5.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\bin\Debug\net7.0\SEM_5.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\bin\Debug\net7.0\SEM_5.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\refint\SEM_5.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\SEM_5.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_5\obj\Debug\net7.0\ref\SEM_5.dll

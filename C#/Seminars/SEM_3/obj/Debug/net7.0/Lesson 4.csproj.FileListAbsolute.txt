@@ -1,0 +1,30 @@
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\bin\Debug\net7.0\Lesson 4.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\bin\Debug\net7.0\Lesson 4.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\bin\Debug\net7.0\Lesson 4.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\bin\Debug\net7.0\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\bin\Debug\net7.0\Lesson 4.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\refint\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\Lesson 4.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Lesson 4\obj\Debug\net7.0\ref\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\bin\Debug\net7.0\Lesson 4.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\bin\Debug\net7.0\Lesson 4.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\bin\Debug\net7.0\Lesson 4.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\bin\Debug\net7.0\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\bin\Debug\net7.0\Lesson 4.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\refint\Lesson 4.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\Lesson 4.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Seminars\SEM_4\obj\Debug\net7.0\ref\Lesson 4.dll

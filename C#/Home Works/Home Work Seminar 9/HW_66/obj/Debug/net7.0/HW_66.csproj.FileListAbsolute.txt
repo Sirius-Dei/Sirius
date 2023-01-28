@@ -1,0 +1,15 @@
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\bin\Debug\net7.0\HW_66.exe
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\bin\Debug\net7.0\HW_66.deps.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\bin\Debug\net7.0\HW_66.runtimeconfig.json
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\bin\Debug\net7.0\HW_66.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\bin\Debug\net7.0\HW_66.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.csproj.AssemblyReference.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.AssemblyInfoInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.AssemblyInfo.cs
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.csproj.CoreCompileInputs.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\refint\HW_66.dll
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.pdb
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\HW_66.genruntimeconfig.cache
+C:\Users\Sirius\Documents\SiriusLocalREP\C#\Home Works\Home Work Seminar 9\HW_66\obj\Debug\net7.0\ref\HW_66.dll
