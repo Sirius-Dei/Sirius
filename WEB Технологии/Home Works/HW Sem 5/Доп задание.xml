@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+    <name>Зелёная миля</name>
+    <janre>Драма</janre>
+    <name>Терминатор</name>
+    <janre>Боевик</janre>
+    <name>Гарри Поттер</name>
+    <janre>Фентези</janre>
+    <name>Звонок</name>
+    <janre>Ужасы</janre>
+    <name>Эйс Вентура</name>
+    <janre>Комедия</janre>
+</films>

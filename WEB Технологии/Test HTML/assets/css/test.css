@@ -1,0 +1,29 @@
+body {
+    background: url(../img/edge_background.jpg)no-repeat center;
+   
+    height: 98.6vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    
+}
+
+h1{
+    display: block;
+    text-align: center;
+    font-size: 500%;
+    text-shadow: 3px 5px 6px rgb(187, 3, 3);
+    font-family: 'Cinzel', serif;
+    
+    
+}
+h2{
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Playfair Display SC', serif;
+}
+.seclogo{
+    display: block;
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}

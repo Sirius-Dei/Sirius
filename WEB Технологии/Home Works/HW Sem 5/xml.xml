@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req>
+
+    <surname>Иванов</surname>
+
+    <name>Иван</name>
+
+    <patronymic>Иванович</patronymic>
+
+    <birthdate>01.01.1990</birthdate>
+
+    <birthplace>Москва</birthplace>
+
+    <phone>8 926 766 48 48</phone>
+
+</req> <!-- Как и было озвучено на семинаре, тут не хватает скобки,
+но XML и сам ругается, так что всё просто-->
