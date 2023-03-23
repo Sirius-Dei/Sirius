@@ -25,5 +25,12 @@ h2{
     display: block;
     height: 400px;
     width: 400px;
-    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vorona{
+    position: absolute;
+    top:0% ;
+    left:0%;
 }
